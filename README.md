@@ -4,5 +4,5 @@ TO START
 2.npm install 
 3.npm start 
 4.open another bash cd rechat-server 
-5.node server.js 
+5.node server.js
 6.Open http://localhost:3000 to view it in the browser.
